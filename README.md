@@ -11,7 +11,7 @@
 
 Heres somin bout me:
 
-- 🔭 I’m currently working on a dream project
+- 🔭 I’m currently working on somin exciting
 - 🌱 I’m currently learning React and SASS
 - 👯 I’m looking to collaborate on new ideas, awesome projects
 - 🤔 I’m looking for help with UI/UX Design and Development
