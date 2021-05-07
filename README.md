@@ -1,4 +1,5 @@
 ![alt text](header.gif "Main Banner")
+---
 ### Hi there 👋 my name is Karthik
 - I am an enthusiastic and passionate programmer🔥
 - always in search of new knowledge and technologies to learn🤓
@@ -16,5 +17,5 @@ Heres somin bout me:
 - 🤔 I’m looking for help with UI/UX Design and Development
 - 💬 Ask me about the dark times of CS☠️
 - ⚡ Fun fact: I also am a streamer by the name howling_hood on twitch doing weird things 😅
-
+---
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=officialk&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
